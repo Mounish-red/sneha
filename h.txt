@@ -1,0 +1,26 @@
+we are learning basics of somethingg
+
+
+
+git init 
+
+git status 
+
+git add <filename>
+git add*
+
+git commit 
+git commit -m "dasfasd" 
+
+git diff 
+
+git checkout -- h.txtgit
+git remote add origin https://github.com/Mounish-red/sneha.git
+git push --set-upstream origin master
+git pull
+
+git clone <https://github.com/Mounish-red/sneha.git>
+
+dhfdjkvh
+git djfdkdndkjfdk
+git branch <branch name>
